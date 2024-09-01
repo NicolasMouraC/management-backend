@@ -1,0 +1,3 @@
+[SERVER IP].nip.io {
+    reverse_proxy app:8080
+}
